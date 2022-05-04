@@ -101,8 +101,8 @@ line-height: 4;
 }
 
 .skillsimg {
-  height: 28%;
-  width: 25%;
+  height: 150px;
+  width: 120px;
   float: left;
   /*mueve contenido a la izquierda o derecha, o you can set it to none*/
   margin-right: 30px;
