@@ -73,7 +73,9 @@ it will stay in its position when you scroll the page
   padding-top: 100px;
 }
 
-.middle-container {}
+.middle-container {
+line-height: 4;
+}
 
 .bottom-container {
   background-color: #66BFBF;
